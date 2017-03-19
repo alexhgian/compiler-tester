@@ -8,4 +8,5 @@
 
 ### Open shell into docker container to manually make and test:
 `chmod +x start.sh`
+
 `./start.sh`
