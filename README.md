@@ -1,4 +1,6 @@
 # compiler-tester
+### Install docker:
+https://www.docker.com/get-docker
 
 ### Make:
 `docker-compose run -w /code/Project4s app make`
